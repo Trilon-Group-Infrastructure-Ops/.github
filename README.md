@@ -11,3 +11,6 @@ No outside collaborators may contribute or review our code at this time.
 If using this organization to host respositories for your projects, please try to use a single repository for that particular project.
 If you have a repository, it should always be private. From there you can decide as the repository owner who should have access to view and contribute to that repository.
 NO REPOSITORY should be public, with the obvious exception of this .github repository. 
+
+Please follow security best practices and DO NOT include companies secrets, passwords, API keys, plaintext certificates, or any other credentials in this Organization's repository.
+Instead, please use environment variables and other methods to store those credentials.
